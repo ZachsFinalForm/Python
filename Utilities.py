@@ -1,3 +1,8 @@
+#Author: Zach Page
+#Date: 5/20/19
+#Project: Utilities Class
+#Filename: Utilities.py
+
 def clearScreen():
         import os
         os.system('cls')
