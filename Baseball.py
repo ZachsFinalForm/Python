@@ -1,3 +1,8 @@
+#Author: Zach Page
+#Date: 6/18/19
+#Project: Read All Files
+#Filename: Baseball.py
+
 #reads multiple files
 import Utilities as u
 
